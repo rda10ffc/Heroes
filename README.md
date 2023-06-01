@@ -1,5 +1,5 @@
 # Heroes grupo 5
 ## Lista de integrantes :
--Rodrigo Alvarez
+-Rodrigo Alvarez, 28 años, Quilmes
 -Camila Acosta
 -Agustin Benitez
